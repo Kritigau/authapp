@@ -1,0 +1,8 @@
+{
+  "short_name": "k App",
+  "name": "k",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#d3f7f7",
+  "background_color": "#ffffff"
+}
